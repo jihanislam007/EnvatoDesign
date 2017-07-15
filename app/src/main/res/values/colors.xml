@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#051725</color>
+    <color name="colorAccent">#FF4081</color>
+
+<!--///////////////for first one////////-->
+    <color name="dark_blue">#051725</color>
+
+    <!--///////////for 2nd/////////-->
+    <color name="text_color">#DADADA</color>
+    <color name="dark_blue_">#051725</color>
+
+    <!--///////////for 3rd/////////-->
+    <color name="red">#E20731</color>
+    <color name="dark_blue__">#051725</color>
+    <color name="white">#FFFFFF</color>
+    <color name="fb">#3C5A9A</color>
+    <color name="google">#DD4A38</color>
+
+    <!--///////////for Four/////////-->
+    <!--/using same content of 3rd/-->
+
+
+</resources>
